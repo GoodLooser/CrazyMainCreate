@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
+//깃허브 수정되나 테스트용
+
 public class Item : MonoBehaviour
 {
     public Player player;
@@ -71,6 +73,7 @@ public class Item : MonoBehaviour
             player.bombRange = player.bombRangeMax;
             Debug.Log("��Ʈ�� ���ٱ� : ��Ÿ� �ִ�ġ");
         }
+        p
     }
 
     //�ɷ�ġ �ҷ�����
